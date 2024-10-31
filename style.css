@@ -35,3 +35,7 @@ height: 400px;
 img:hover {
     border-color: black;
 }
+
+ul {
+    list-style-type: none;
+}
