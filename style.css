@@ -3,12 +3,26 @@ h1 {
 
 }
 
+main {
+    background-color: white;
+}
+
 nav {
     background-color: grey;
     font: bold;
 }
 
-.container-fluid {
-    position: 
+.col-5 {
+    position:relative;
+}
 
+
+
+img {
+width: 500px;
+height: 600px;
+}
+
+img:hover {
+    border-color: black;
 }
